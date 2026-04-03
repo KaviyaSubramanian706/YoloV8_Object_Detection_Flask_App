@@ -15,7 +15,6 @@ A web application that performs object detection using YOLO.
 - Flask
 
 ## How to Run
-'''
-pip install ultralytics flask opencv-python
-python app.py
-'''
+-pip install ultralytics flask opencv-python
+-python app.py
+
